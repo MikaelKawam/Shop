@@ -36,14 +36,6 @@ sell things by putting a photo and the price
 
 The following tools were used in the construction of the project:
 
-#### **Front-end** ([React](https://reactjs.org/))
-
-- **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-- **[React Icons](https://react-icons.github.io/react-icons/)**
-- **[Axios](https://github.com/axios/axios)**
-- **[Event](https://github.com/browserify/events#readme)**
-- **[React-icons](https://react-icons.github.io/react-icons/)**
-
 > See the file [package.json](https://github.com/BrunoColpani/Get_A_Pet/blob/main/front/package.json)
 #### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Back-end** ([NodeJS](https://nodejs.org/en/))
 
