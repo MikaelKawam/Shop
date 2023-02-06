@@ -56,3 +56,12 @@ The following tools were used in the construction of the project:
 ## 🦸 Author
 
 <a href="https://www.linkedin.com/in/mikaeldev/">
+ 
+ <br />
+ <sub><b>Mikael Kawam</b></sub></a> 
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mikael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaeldev/)](https://www.linkedin.com/in/mikaeldev/)
+[![Gmail Badge](https://img.shields.io/badge/-mikaelkawam.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaelkawam.dev@gmail.com)](mailto:mikaelkawam.dev@gmail.com)
+
+---
