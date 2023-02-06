@@ -1,7 +1,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="GetAPet" title="#Get a Pet" src="./frontend/src/assets/img/logo.png" />
+    🛒
 </h1>
 
 <h4 align="center"> 
