@@ -1,8 +1,7 @@
 const mongoose = require('mongoose')
 
 async function main() {
-    await mongoose.connect("mongodb://0.0.0.0:27017/testemongoose");
-    console.log('Conectou ao mongodb com   moongose')
+    await mongoose.connect("mongodb+srv://book:book@cluster0.xgwsnin.mongodb.net/?retryWrites=true&w=majority')
 }
 
 main().catch((err) => console.log(err))
